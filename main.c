@@ -1,7 +1,5 @@
 #include<stdio.h>
 #include<conio.h>
-#include<string.h>
-
 int * f(int a[])
 {
     int i;
